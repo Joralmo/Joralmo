@@ -17,10 +17,9 @@
 - 💬 Puedes preguntarme sobre **Cualquier cosa**, me encanta ayudar.
 - 📫 ¿Como contactarme? **joralmopro@gmail.com**
 
+<div align="center">
 <img align="center" alt="GIF" src="https://github.com/Joralmo/Joralmo/blob/master/assets/code.gif?raw=true" width="500" height="320" />
-
-
-
+</div>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
