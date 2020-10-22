@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">, Mi nombre es <a href="https://www.linkedin.com/in/joralmopro" target="_blank">Jose Rafael Altamar Molina</a></h1>
 <h3 align="center">Soy desarrollador Full Stack 🚀, me encanta la programación, apasionado por utilizar tecnologías JavaScript. Además de la programación me encanta manejar bicicleta, comer y viajar.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joralmo&label=Profile%20views&color=0e75b6&style=flat" alt="joralmo" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joralmo&label=Profile%20views&color=0e75b6&style=flat" alt="joralmo" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joralmo" alt="joralmo" /></a> </p>
 
