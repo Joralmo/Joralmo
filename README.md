@@ -332,4 +332,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joralmo&show_icons=true&custom_title=Lenguajes%20mas%20utilizados&langs_count=8&hide_border=true" alt="joralmo" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joralmo&show_icons=true&locale=es&hide_border=true" alt="joralmo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=joralmo&show_icons=true&locale=en&hide_border=true&custom_title=Estad%C3%ADsticas%20de%20GitHub" alt="joralmo" /></p>
