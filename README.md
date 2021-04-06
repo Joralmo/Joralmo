@@ -10,8 +10,8 @@
 
 
 - 🔭 Actualmente trabajo en [Siigo](https://www.siigo.com)
-- 🌱 Actualmente estoy aprendiendo **NestJS 🐱, Go **
-- 👯 Actualmente estoy colaborando con [Fakedata](https://github.com/NoEMEC/fakedata)
+- 🌱 Actualmente estoy aprendiendo **Electron**
+- 👯 Actualmente estoy colaborando con [NoEMEC](https://github.com/NoEMEC/)
 - 👨‍💻 Todos mis proyectos están disponibles en [https://joralmo-pro.firebaseapp.com/](https://joralmo-pro.firebaseapp.com/)
 - 📝 Algunas veces escribo artículos o tutoriales en [http://joralmo.github.io/](http://joralmo.github.io/)
 - 💬 Puedes preguntarme sobre **Cualquier cosa**, me encanta ayudar.
