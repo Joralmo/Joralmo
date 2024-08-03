@@ -9,7 +9,7 @@
 
 
 
-- 🔭 Actualmente trabajo en [Siigo](https://www.siigo.com)
+- 🔭 Actualmente trabajo en [Sofka](https://sofka.com.co/)
 - 🌱 Actualmente estoy aprendiendo **Electron**
 - 👯 Actualmente estoy colaborando con [NoEMEC](https://github.com/NoEMEC/)
 - 👨‍💻 Todos mis proyectos están disponibles en [https://joralmo-pro.firebaseapp.com/](https://joralmo-pro.firebaseapp.com/)
